@@ -1,0 +1,30 @@
+header
+{
+	text-align: center;
+	background-color: rgb(198, 248, 255);
+	padding: 30px;
+}
+
+
+#next
+{
+	text-align: center;
+	font-style: arial;
+	margin-top: 10pt;
+}
+
+a:hover
+{
+	color: rgb(255, 2, 2);
+}
+
+
+caption
+{
+	margin-bottom: 10pt;
+}
+
+form
+{
+	text-align: center;
+}
